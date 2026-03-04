@@ -66,7 +66,7 @@
     </td>
     <td width="30%" valign="middle" align="right">
       <!-- GIF posicionado exatamente como na imagem -->
-      <img height="250" src="./skull.gif" alt="Skull GIF" />
+     <img width="320" src="./skull.gif?raw=1" alt="Skull GIF" />
     </td>
   </tr>
 </table>
